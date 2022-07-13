@@ -1,0 +1,3 @@
+This is my test text file in IDEA.
+
+Or is there a mistake?
